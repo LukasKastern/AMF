@@ -1,0 +1,8 @@
+.{
+    .name = .amf,
+    .version = "1.5.2",
+    .fingerprint = 0x3ebc8ecdc5506d43,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{},
+    .paths = .{"amf/public/include/"},
+}
