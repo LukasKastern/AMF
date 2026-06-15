@@ -4,5 +4,8 @@
     .fingerprint = 0xc2d6a982cc1e953b,
     .minimum_zig_version = "0.16.0",
     .dependencies = .{},
-    .paths = .{"amf/public/include/"},
+    .paths = .{
+        "amf",
+        "build.zig.zon",
+    },
 }
